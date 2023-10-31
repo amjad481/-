@@ -298,5 +298,14 @@ margin: 0 2rem 2rem 0;
 
 }
 
+   .skills .cotainer-imges{
+        margin-left:45.7rem;
+        width: 40%;
+        transition: 0.4s;
+       
+    }
+    
 
+    .skills .cotainer-imges:hover{
+transform: scale(1.2);    }
 
