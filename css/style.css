@@ -141,12 +141,13 @@
     }
     
     .social{
-        margin-top: 0.5rem;
-    margin-left: 10%;
+        margin-top: 1.1rem;
+    margin-right: 57%;
     }
     
    .social img{
-        width: 3.5%;
+        width: 16.5%;
+        margin-bottom: 5.5rem;
         transition: 0.4s;
     }
     
